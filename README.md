@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Currently Learning:- ``Java and Web-Development``.
 - 🎓 &nbsp; I am an engineering undergraduate interested in Full Stack Development and OpenSource.
-- ✍️ &nbsp; Read my Blogs at <a href="https://hashnode.com/@Ayaan49">Ayaan's blog</a>
 
 ### 🧰 Languages and Tools
 
